@@ -1,0 +1,92 @@
+[
+  {
+    "id": "source_001",
+    "cardId": "card_001",
+    "issuer": "Northstar Demo Bank",
+    "url": "https://issuer.example/cards/everyday-rewards",
+    "title": "Example Everyday Rewards Card \u2014 Rates and Terms",
+    "content": "Example Everyday Rewards Card. Purchase APR: 18.99%\u201327.99% variable. Balance transfer APR: 19.99%\u201328.99% variable. Annual fee: $95. Welcome bonus: $200 after qualifying purchases. Rewards: 3% on groceries; 2% on transit; 1% on other purchases. Credit approval required. Fictional demonstration content only.",
+    "capturedAt": "2026-10-15T09:55:00.000Z"
+  },
+  {
+    "id": "source_002",
+    "cardId": "card_002",
+    "issuer": "Northstar Demo Bank",
+    "url": "https://issuer.example/cards/travel-plus",
+    "title": "Example Travel Plus Card \u2014 Rates and Terms",
+    "content": "Example Travel Plus Card. Purchase APR: 20.99%\u201329.99% variable. Annual fee: $150. Welcome bonus: 50,000 demo points after qualifying purchases. Rewards: 2 points per dollar on eligible travel purchases. Introductory APR: 0% for 6 months on eligible purchases. Fictional demonstration content only.",
+    "capturedAt": "2026-10-15T09:55:00.000Z"
+  },
+  {
+    "id": "source_003",
+    "cardId": "card_003",
+    "issuer": "Riverbend Demo Credit Union",
+    "url": "https://issuer.example/riverbend/cash-back",
+    "title": "Example Cash Back Card \u2014 Official Demo Disclosure",
+    "content": "Example Cash Back Card. Purchase APR: 17.49%\u201326.49% variable. Balance transfer APR: 18.49%\u201327.49% variable. Annual fee: $0. Welcome bonus: $150 after qualifying purchases. Rewards: 2% cash back on eligible purchases. Introductory APR: 0% for 3 months on eligible purchases. Fictional demonstration content only.",
+    "capturedAt": "2026-10-15T09:55:00.000Z"
+  },
+  {
+    "id": "source_004",
+    "cardId": "card_004",
+    "issuer": "Harborlight Demo Financial",
+    "url": "https://issuer.example/harborlight/student-starter",
+    "title": "Example Student Starter Card \u2014 Rates and Terms",
+    "content": "Example Student Starter Card. Purchase APR: 21.99%\u201329.99% variable. Annual fee: $0. Rewards: 1% cash back on eligible purchases. Applicants must meet issuer eligibility requirements. All information is fictional demonstration content.",
+    "capturedAt": "2026-10-15T09:55:00.000Z"
+  },
+  {
+    "id": "source_005",
+    "cardId": "card_005",
+    "issuer": "Harborlight Demo Financial",
+    "url": "https://issuer.example/harborlight/business-flex",
+    "title": "Example Business Flex Card \u2014 Rates and Terms",
+    "content": "Example Business Flex Card. Purchase APR: 19.49%\u201328.49% variable. Annual fee: $99. Welcome bonus: $300 after qualifying business spend. Rewards: 2% on selected business categories. Business account approval required. All information is fictional demonstration content.",
+    "capturedAt": "2026-10-15T09:55:00.000Z"
+  },
+  {
+    "id": "source_006",
+    "cardId": "card_006",
+    "issuer": "Northstar Demo Bank",
+    "url": "https://issuer.example/cards/northstar/platinum",
+    "title": "Example Platinum Rewards Card \u2014 Rates and Terms",
+    "content": "Example Platinum Rewards Card. Purchase APR: 16.99%\u201325.99% variable. Annual fee: $175. Welcome bonus: $250 after qualifying purchases. Rewards: 4 points per dollar on eligible dining. Introductory APR: 0% for 9 months on eligible purchases. Credit approval and issuer eligibility requirements apply. All values are fictional demo data.",
+    "capturedAt": "2026-10-15T09:55:00.000Z"
+  },
+  {
+    "id": "source_007",
+    "cardId": "card_007",
+    "issuer": "Northstar Demo Bank",
+    "url": "https://issuer.example/cards/northstar/low-rate",
+    "title": "Example Low Rate Card \u2014 Rates and Terms",
+    "content": "Example Low Rate Card. Purchase APR: 14.99%\u201323.99% variable. Annual fee: $0. No welcome bonus is listed in this demo fixture. Rewards: No rewards program. No introductory APR offer is listed in this demo fixture. Credit approval and issuer eligibility requirements apply. All values are fictional demo data.",
+    "capturedAt": "2026-10-15T09:55:00.000Z"
+  },
+  {
+    "id": "source_008",
+    "cardId": "card_008",
+    "issuer": "Riverbend Demo Credit Union",
+    "url": "https://issuer.example/cards/riverbend/community-rewards",
+    "title": "Example Community Rewards Card \u2014 Rates and Terms",
+    "content": "Example Community Rewards Card. Purchase APR: 18.25%\u201327.25% variable. Annual fee: $0. Welcome bonus: $100 after qualifying purchases. Rewards: 1.5% cash back on eligible purchases. Introductory APR: 0% for 6 months on eligible purchases. Credit approval and issuer eligibility requirements apply. All values are fictional demo data.",
+    "capturedAt": "2026-10-15T09:55:00.000Z"
+  },
+  {
+    "id": "source_009",
+    "cardId": "card_009",
+    "issuer": "Riverbend Demo Credit Union",
+    "url": "https://issuer.example/cards/riverbend/signature-travel",
+    "title": "Example Signature Travel Card \u2014 Rates and Terms",
+    "content": "Example Signature Travel Card. Purchase APR: 20.25%\u201329.25% variable. Annual fee: $125. Welcome bonus: 40,000 demo points after qualifying purchases. Rewards: 3 points per dollar on eligible travel. No introductory APR offer is listed in this demo fixture. Credit approval and issuer eligibility requirements apply. All values are fictional demo data.",
+    "capturedAt": "2026-10-15T09:55:00.000Z"
+  },
+  {
+    "id": "source_010",
+    "cardId": "card_010",
+    "issuer": "Harborlight Demo Financial",
+    "url": "https://issuer.example/cards/harborlight/secured-builder",
+    "title": "Example Secured Builder Card \u2014 Rates and Terms",
+    "content": "Example Secured Builder Card. Purchase APR: 24.99% variable. Annual fee: $0. No welcome bonus is listed in this demo fixture. Rewards: No rewards program. No introductory APR offer is listed in this demo fixture. Credit approval and issuer eligibility requirements apply. All values are fictional demo data.",
+    "capturedAt": "2026-10-15T09:55:00.000Z"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "card_001",
+    "name": "Example Everyday Rewards Card",
+    "issuer": "Northstar Demo Bank",
+    "productUrl": "https://issuer.example/cards/everyday-rewards",
+    "approved": true,
+    "lastVerifiedAt": "2026-10-15T10:00:00.000Z",
+    "terms": {
+      "purchaseApr": "18.99%\u201327.99% variable",
+      "balanceTransferApr": "19.99%\u201328.99% variable",
+      "annualFee": "$95",
+      "welcomeBonus": "$200 after qualifying purchases",
+      "rewards": "3% on groceries; 2% on transit; 1% on other purchases",
+      "introAprDuration": null,
+      "conditions": [
+        "Credit approval required",
+        "Rates and fees are fictional demo values"
+      ]
+    }
+  },
+  {
+    "id": "card_002",
+    "name": "Example Travel Plus Card",
+    "issuer": "Northstar Demo Bank",
+    "productUrl": "https://issuer.example/cards/travel-plus",
+    "approved": true,
+    "lastVerifiedAt": "2026-10-15T10:00:00.000Z",
+    "terms": {
+      "purchaseApr": "20.99%\u201329.99% variable",
+      "balanceTransferApr": null,
+      "annualFee": "$150",
+      "welcomeBonus": "50,000 demo points after qualifying purchases",
+      "rewards": "2 points per dollar on eligible travel purchases",
+      "introAprDuration": "0% for 6 months on eligible purchases",
+      "conditions": [
+        "Credit approval required",
+        "Rates and fees are fictional demo values"
+      ]
+    }
+  },
+  {
+    "id": "card_003",
+    "name": "Example Cash Back Card",
+    "issuer": "Riverbend Demo Credit Union",
+    "productUrl": "https://issuer.example/riverbend/cash-back",
+    "approved": true,
+    "lastVerifiedAt": "2026-10-15T10:00:00.000Z",
+    "terms": {
+      "purchaseApr": "17.49%\u201326.49% variable",
+      "balanceTransferApr": "18.49%\u201327.49% variable",
+      "annualFee": "$0",
+      "welcomeBonus": "$150 after qualifying purchases",
+      "rewards": "2% cash back on eligible purchases",
+      "introAprDuration": "0% for 3 months on eligible purchases",
+      "conditions": [
+        "Credit approval required",
+        "Rates and fees are fictional demo values"
+      ]
+    }
+  },
+  {
+    "id": "card_004",
+    "name": "Example Student Starter Card",
+    "issuer": "Harborlight Demo Financial",
+    "productUrl": "https://issuer.example/harborlight/student-starter",
+    "approved": true,
+    "lastVerifiedAt": "2026-10-15T10:00:00.000Z",
+    "terms": {
+      "purchaseApr": "21.99%\u201329.99% variable",
+      "balanceTransferApr": null,
+      "annualFee": "$0",
+      "welcomeBonus": null,
+      "rewards": "1% cash back on eligible purchases",
+      "introAprDuration": null,
+      "conditions": [
+        "Applicants must meet issuer eligibility requirements",
+        "All values are fictional demo data"
+      ]
+    }
+  },
+  {
+    "id": "card_005",
+    "name": "Example Business Flex Card",
+    "issuer": "Harborlight Demo Financial",
+    "productUrl": "https://issuer.example/harborlight/business-flex",
+    "approved": true,
+    "lastVerifiedAt": "2026-10-15T10:00:00.000Z",
+    "terms": {
+      "purchaseApr": "19.49%\u201328.49% variable",
+      "balanceTransferApr": null,
+      "annualFee": "$99",
+      "welcomeBonus": "$300 after qualifying business spend",
+      "rewards": "2% on selected business categories",
+      "introAprDuration": null,
+      "conditions": [
+        "Business account approval required",
+        "All values are fictional demo data"
+      ]
+    }
+  },
+  {
+    "id": "card_006",
+    "name": "Example Platinum Rewards Card",
+    "issuer": "Northstar Demo Bank",
+    "productUrl": "https://issuer.example/cards/northstar/platinum",
+    "approved": true,
+    "lastVerifiedAt": "2026-10-15T10:00:00.000Z",
+    "terms": {
+      "purchaseApr": "16.99%\u201325.99% variable",
+      "balanceTransferApr": null,
+      "annualFee": "$175",
+      "welcomeBonus": "$250 after qualifying purchases",
+      "rewards": "4 points per dollar on eligible dining",
+      "introAprDuration": "0% for 9 months on eligible purchases",
+      "conditions": [
+        "Credit approval and issuer eligibility requirements apply",
+        "All values are fictional demo data"
+      ]
+    }
+  },
+  {
+    "id": "card_007",
+    "name": "Example Low Rate Card",
+    "issuer": "Northstar Demo Bank",
+    "productUrl": "https://issuer.example/cards/northstar/low-rate",
+    "approved": true,
+    "lastVerifiedAt": "2026-10-15T10:00:00.000Z",
+    "terms": {
+      "purchaseApr": "14.99%\u201323.99% variable",
+      "balanceTransferApr": null,
+      "annualFee": "$0",
+      "welcomeBonus": null,
+      "rewards": "No rewards program",
+      "introAprDuration": null,
+      "conditions": [
+        "Credit approval and issuer eligibility requirements apply",
+        "All values are fictional demo data"
+      ]
+    }
+  },
+  {
+    "id": "card_008",
+    "name": "Example Community Rewards Card",
+    "issuer": "Riverbend Demo Credit Union",
+    "productUrl": "https://issuer.example/cards/riverbend/community-rewards",
+    "approved": true,
+    "lastVerifiedAt": "2026-10-15T10:00:00.000Z",
+    "terms": {
+      "purchaseApr": "18.25%\u201327.25% variable",
+      "balanceTransferApr": null,
+      "annualFee": "$0",
+      "welcomeBonus": "$100 after qualifying purchases",
+      "rewards": "1.5% cash back on eligible purchases",
+      "introAprDuration": "0% for 6 months on eligible purchases",
+      "conditions": [
+        "Credit approval and issuer eligibility requirements apply",
+        "All values are fictional demo data"
+      ]
+    }
+  },
+  {
+    "id": "card_009",
+    "name": "Example Signature Travel Card",
+    "issuer": "Riverbend Demo Credit Union",
+    "productUrl": "https://issuer.example/cards/riverbend/signature-travel",
+    "approved": true,
+    "lastVerifiedAt": "2026-10-15T10:00:00.000Z",
+    "terms": {
+      "purchaseApr": "20.25%\u201329.25% variable",
+      "balanceTransferApr": null,
+      "annualFee": "$125",
+      "welcomeBonus": "40,000 demo points after qualifying purchases",
+      "rewards": "3 points per dollar on eligible travel",
+      "introAprDuration": null,
+      "conditions": [
+        "Credit approval and issuer eligibility requirements apply",
+        "All values are fictional demo data"
+      ]
+    }
+  },
+  {
+    "id": "card_010",
+    "name": "Example Secured Builder Card",
+    "issuer": "Harborlight Demo Financial",
+    "productUrl": "https://issuer.example/cards/harborlight/secured-builder",
+    "approved": true,
+    "lastVerifiedAt": "2026-10-15T10:00:00.000Z",
+    "terms": {
+      "purchaseApr": "24.99% variable",
+      "balanceTransferApr": null,
+      "annualFee": "$0",
+      "welcomeBonus": null,
+      "rewards": "No rewards program",
+      "introAprDuration": null,
+      "conditions": [
+        "Credit approval and issuer eligibility requirements apply",
+        "All values are fictional demo data"
+      ]
+    }
+  }
+]
