@@ -7,16 +7,17 @@ export class CardsService {
   constructor(private readonly store: JsonStoreService) {}
 
   getApprovedCards() {
-    const cards = this.store.readCards();
+    const cards = this.store.readCards().filter((card) => card.approved);
     return {
       count: cards.length,
-      data: cards.map(({ id, name, issuer, productUrl, approved, lastVerifiedAt }) => ({
-        id,
-        name,
-        issuer,
-        productUrl,
-        approved,
-        lastVerifiedAt,
+      data: cards.map((card) => ({
+        id: card.id,
+        name: card.name,
+        issuer: card.issuer,
+        productUrl: card.productUrl,
+        approved: card.approved,
+        lastVerifiedAt: card.lastVerifiedAt,
+        terms: card.terms,
       })),
     };
   }
