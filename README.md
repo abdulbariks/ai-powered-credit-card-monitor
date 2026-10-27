@@ -2,6 +2,7 @@
 
 A demo implementation of the supplied assignment using **NestJS**, **TypeScript**, **JSON files instead of a database**, and a small **RAG (Retrieval-Augmented Generation)** pipeline.
 
+
 ## What is included
 
 - Only two HTTP endpoints:
